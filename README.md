@@ -1,23 +1,23 @@
 # E-commerce Sales and Inventory Management Dashboard
 
-This project features an end-to-end Power BI dashboard and SSRS report to assist e-commerce businesses in analyzing sales and managing inventory efficiently. It includes data transformation, advanced analyses, and interactive visualizations for informed decision-making.
+This project is designed to provide e-commerce businesses with actionable insights into sales and inventory management using Power BI and SSRS.
 
 ## Key Features
 
-- **Inventory Analysis**: ABC, VED, and HML analyses to categorize products by importance.
-- **Reorder Management**: EOQ and reorder points to maintain optimal stock levels.
-- **SSRS Reporting**: Enhanced insights into inventory metrics.
+- **Inventory Analysis**: ABC, VED, and HML categorizations for strategic inventory planning.
+- **Reorder Optimization**: EOQ and reorder point calculations to maintain efficient stock levels.
+- **SSRS Reporting**: Additional inventory insights through comprehensive reports.
 
-## Project Files
+## Project Structure
 
-- **Dashboard**: `E-Commerce Dashboard.pbix`
-- **Data**: SQL script for Schema.
-- **Scripts**: SQL queries for data processing and cleaning.
-- **Technical Documentation**: Detailed project explanation and methodologies.
-  
+- **`data/`**: Dataset files used for analysis.
+- **`scripts/`**: SQL scripts for data transformation and cleaning.
+- **`business requirements/`**: Details the project's business objectives and requirements.
+- **`dashboard and report/`**: Contains Power BI dashboard and SSRS report files.
+
 ## Setup and Usage
 
-1. Clone this repository.
-2. Import the SQL scripts and load data into SQL Server.
-3. Open `E-Commerce Dashboard.pbix` in Power BI and connect to the data source.
-4. Explore the SSRS report for additional insights.
+1. Clone the repository.
+2. Execute SQL scripts from `scripts/` in SQL Server.
+3. Open `dashboard_and_report/E-Commerce Dashboard.pbix` in Power BI, connect to the data source.
+4. Review SSRS reports for additional insights.
