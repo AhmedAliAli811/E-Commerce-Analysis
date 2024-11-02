@@ -20,15 +20,18 @@ This project provides e-commerce businesses with actionable insights into sales 
 ## Visuals
 
 ### Dashboard and Reports
+## Inventory Dashboard
 ![Inventory Dashboard Preview](images/Inventory_Dashboard.png)
-![Sales Dashboard Preview](images/Sales Dashboard.png)
-![SSRS Report](images/SSRS Report.png)
+## Sales Dashboard
+![Sales Dashboard Preview](images/Sales_Dashboard.png)
+## SSRS Report
+![SSRS Report](images/SSRS_Report.png)
 
 ### Data Model
-![Data Model](images/Data Model.png)
+![Data Model](images/Data_Model.png)
 
 ### Project Demo
-[Watch the Video](videos/Full Project.mp4)
+[Watch the Video](videos/Full_Project.mp4)
 
 ## Setup and Usage
 
