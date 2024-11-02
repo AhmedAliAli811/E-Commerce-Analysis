@@ -33,6 +33,10 @@ This project provides e-commerce businesses with actionable insights into sales 
 ### Project Demo
 [Watch the Video](Videos/Full_Project.mp4)
 
+
+https://github.com/user-attachments/assets/b535c954-601c-4c95-8c7e-e47cf593a079
+
+
 ## Setup and Usage
 
 1. Clone the repository.
