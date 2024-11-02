@@ -20,7 +20,7 @@ This project provides e-commerce businesses with actionable insights into sales 
 ## Visuals
 
 ### Dashboard and Reports
-![Inventory Dashboard Preview](images/Inventory Dashboard.png)
+![Inventory Dashboard Preview](images/Inventory_Dashboard.png)
 ![Sales Dashboard Preview](images/Sales Dashboard.png)
 ![SSRS Report](images/SSRS Report.png)
 
