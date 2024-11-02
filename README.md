@@ -31,8 +31,6 @@ This project provides e-commerce businesses with actionable insights into sales 
 ![Data Model](images/Data_Model.png)
 
 ### Project Demo
-[Watch the Video](Videos/Full_Project.mp4)
-
 
 https://github.com/user-attachments/assets/b535c954-601c-4c95-8c7e-e47cf593a079
 
